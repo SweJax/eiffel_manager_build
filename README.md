@@ -1,2 +1,4 @@
-# EiffelOrch
-EiffelOrch
+# EiffelManager
+Some instructions
+* Firstly
+* Secondly
